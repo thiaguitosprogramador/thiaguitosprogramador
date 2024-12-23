@@ -1,6 +1,6 @@
 <h1>Hola munditosprogramador</h1>
 
-<h2>Estudiante, tengo conocimientos basicos en front-end y back-end <br>Html, css, javascript, bootstrap, php, mysql. <br>Extusiasta en ser tecnico superior</h2>
+<h2>Estudiante, tengo conocimientos basicos en front-end y back-end <br>Html, css, javascript, bootstrap, php, mysql. <br>Entusiasta en ser tecnico superior</h2>
 
 <!--
 **thiaguitosprogramador/thiaguitosprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
